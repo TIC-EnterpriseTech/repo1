@@ -5,5 +5,5 @@
   "testFolders": [],
   "bcptTestFolders": [],
   "repoVersion": "2.0",
-  "gitHubRunner": "windows-latest"
+  "gitHubRunner": "self-hosted"
 }
